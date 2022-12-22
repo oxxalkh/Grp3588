@@ -24,6 +24,17 @@
 //     return outArray;
 // }
 
+// //Метод генерации массива
+// double[] GenArray(int len)
+// {
+//     double[] arr = new double[len];
+//     for (int i = 0; i < arr.Length; i++)
+//     {
+//         arr[i] = new Random().Next(-100, 100) + new Random().NextDouble();
+//     }
+//     return arr;
+// }
+
 // void PrintArray(double[] arr) //выводим на печать
 // {
 //     Console.Write("[");

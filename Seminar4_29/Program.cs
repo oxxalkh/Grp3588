@@ -62,7 +62,7 @@ void PrintArr(int[] arr)
 //     string[] words = text.Split(new char[] { ' ',',' }, StringSplitOptions.RemoveEmptyEntries);
    
 //     var ind = new Random().Next(words.Length);
-//     System.Console.WriteLine(words[ind]);
+
      
 //     return words[ind];
 // }
